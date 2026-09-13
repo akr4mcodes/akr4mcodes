@@ -12,11 +12,7 @@ Hey there , i'm Mohamed Akram <br>Full-Stack Developer | AI & Data Science Enthu
 ![](https://streak-stats.demolab.com/?user=makramlbk23-star&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=makramlbk23-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=makramlbk23-star&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=makramlbk23-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
