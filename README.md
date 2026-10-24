@@ -31,13 +31,6 @@ I enjoy owning the whole journey: designing the experience, building the interfa
 
 ## 🚀 Featured Project
 
-### 🍽️ HomeBite
-A bilingual (FR/EN) marketplace connecting home chefs with food lovers.
-
-- Flutter client with tailored chef and client experiences
-- Node.js + Express API backed by Prisma and PostgreSQL
-- Search, onboarding, image optimization, and localized UX
-- Performance-minded feed and navigation built for real devices
 
 ## 🧩 What I Care About
 
@@ -75,6 +68,3 @@ A bilingual (FR/EN) marketplace connecting home chefs with food lovers.
   </a>
 </p>
 
-<p align="center">
-  <i>Good software is equal parts logic, empathy, and play.</i>
-</p>
