@@ -22,17 +22,16 @@ Hey there, I'm **Mohamed Akram** — a full-stack developer and software enginee
 
 I enjoy owning the whole journey: designing the experience, building the interface, wiring up the backend, and making sure the final product feels fast, reliable, and thoughtful.
 
-- 🔭 Currently building **HomeBite**, a bilingual home-cooked meal marketplace powered by Flutter, Node.js, Prisma, and PostgreSQL.
-- 🧠 Exploring how **AI and data** can make everyday products smarter — from recommendations to intelligent workflows.
-- 📱 Passionate about **mobile performance**, clean architecture, and interfaces that feel effortless.
-- 🌱 Always learning something new, currently going deeper into **LLM-powered products and scalable backend design**.
-- 🤝 Open to collaborating on **Flutter apps, full-stack platforms, AI tools, and open-source projects**.
-- ⚡ Fun fact: my portfolio is a **retro 8-bit experience** — because building software should still be fun.
+-  Currently building **HomeBite**, a bilingual home-cooked meal marketplace powered by Flutter, Node.js, Prisma, and PostgreSQL.
+-  Exploring how **AI and data** can make everyday products smarter — from recommendations to intelligent workflows.
+-  Passionate about **mobile performance**, clean architecture, and interfaces that feel effortless.
+-  Always learning something new, currently going deeper into **LLM-powered products and scalable backend design**.
+-  Open to collaborating on **Flutter apps, full-stack platforms, AI tools, and open-source projects**.
 
-## 🚀 Featured Project
+##  Featured Project
 
 
-## 🧩 What I Care About
+##  What I Care About
 
 - **Products over prototypes** — shipping something people can actually use.
 - **Clean foundations** — readable code, sensible architecture, and maintainable systems.
